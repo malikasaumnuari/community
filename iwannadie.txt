@@ -1,0 +1,58 @@
+Yang udah:
+- login 
+- Halaman depan
+- Halaman komunitas belum join
+- Form join komunitas
+- manage member komunitas (master komunitas)
+- manage thread komunitas
+- form komunitas sent
+- form join sent
+- halaman komunitas udah join
+- halaman depan master komunitas
+- thread new form
+- Lihat list thread
+
+Masalah:
+- yang form kok field requirednya diabaikan???
+
+Yang belum:
+
+Search
+- Search option nya gimana
+- Halaman hasil search
+
+Form:
+- Form buat komunitas (progress)
+
+Komunitas:
+- Schedule?
+- Dalem thread
+- Lihat list member (tunggu ardan)
+- Commitee?
+
+
+User
+- Abis login, masukin data usernya belom (Ardan)
+
+Komunitas
+- halaman komunitas udah join
+- halaman depan master komunitas
+
+
+Admin (ardan)
+- Halaman depan admin
+- Manage Komunitas
+- Manage users
+
+
+
+
+###############################################
+
+
+17/5/2017
+- Halaman user+admin udah
+- Indahkan (?)
+- CRUD semuanya
+
+PRESENTASI MINGGU 14
