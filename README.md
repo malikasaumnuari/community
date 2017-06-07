@@ -6,7 +6,7 @@ Kelompok 4 :
 - Malika Saumnuari (G64150041)
 - Wiandrini Anindita (G64150067)
 
-#How to use This Project
+# How to use This Project
 
 Download This Bootstrap Template https://github.com/puikinsh/gentelella
 
