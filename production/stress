@@ -1,0 +1,23 @@
+What to do:
+
+Semuanya belum dicoba kalau udah termasuk community nya
+
+Schedule (daitai ok des)
+	- Create New Schedule (ok)
+	- Delete Schedule (ok)
+	- Start Schedule/open active (ok)
+	- Error Handling (masalah timestart-time end)
+
+Thread (????)
+	- Create New Thread (masalah kalau tambah dengan post)
+	- Still cant tau gimana caranya nyambungin id_thread thread dan id_thread di post
+
+Members
+	xx Nunggu Join Community jadi xx
+	- Remove members
+	- Accept Members
+
+
+Miscellaneous(?)
+	- Sambungin link yang bener
+	- Sambungin data dari database

@@ -1,0 +1,23 @@
+FUNGSI UTAMA 
+
+USER:
+GENERAL:
+create community (ok)
+join community
+edit profile
+search community
+
+COMMUNITY MEMBER
+create new thread
+absen
+leave community
+
+Yang harus dilakukan:
+buat thread
+post di thread
+absen
+bikin agenda
+delete agenda
+delete thread
+accept member
+delete member
